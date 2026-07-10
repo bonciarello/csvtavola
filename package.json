@@ -1,0 +1,13 @@
+{
+  "name": "csvtavola",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 4599",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 4599",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  }
+}
